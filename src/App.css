@@ -1,4 +1,7 @@
 table {
-    border: 1px solid blue;
+    @apply container text-sm mx-auto;
+}
 
+table * {
+    @apply table-auto border border-solid border-slate-300 border-collapse p-2 text-center;
 }

@@ -7,13 +7,163 @@ const days = [
         title: "D27",
         date: new Date("2022, 11, 11"),
         hardSkills: "Fundamentos 6.4",
-        softSkils: "?",
+        softSkils: "",
     },
     {
         title: "D26",
         date: new Date("2022, 11, 10"),
         hardSkills: "Fundamentos 6.3",
+        softSkils: "Eu e o Mundo - D11 Resiliência",
+    },
+    {
+        title: "D25",
+        date: new Date("2022, 11, 09"),
+        hardSkills: "Fundamentos 6.2",
         softSkils: "Eu e o Mundo - D10 Empatia",
+    },
+    {
+        title: "D24",
+        date: new Date("2022, 11, 08"),
+        hardSkills: "Fundamentos 6.1",
+        softSkils: "Eu e o Mundo - D9 História de vida",
+    },
+    {
+        title: "D23",
+        date: new Date("2022, 11, 07"),
+        hardSkills: "",
+        softSkils: "Eu e o Mundo - D9 História de vida",
+    },
+    {
+        title: "D22",
+        date: new Date("2022, 11, 04"),
+        hardSkills: "",
+        softSkils: "",
+    },
+    {
+        title: "D21",
+        date: new Date("2022, 11, 03"),
+        hardSkills: "Fundamentos 5.4",
+        softSkils: "",
+    },
+    {
+        title: "D20",
+        date: new Date("2022, 11, 01"),
+        hardSkills: "Fundamentos 5.3",
+        softSkils: "",
+    },
+    {
+        title: "D19",
+        date: new Date("2022, 10, 31"),
+        hardSkills: "Fundamentos 5.2",
+        softSkils: "",
+    },
+    {
+        title: "D18",
+        date: new Date("2022, 10, 28"),
+        hardSkills: "Fundamentos 5.1",
+        softSkils: "",
+    },
+    {
+        title: "D17",
+        date: new Date("2022, 10, 27"),
+        hardSkills: "Fundamentos 4.6",
+        softSkils: "",
+    },
+    {
+        title: "D16",
+        date: new Date("2022, 10, 26"),
+        hardSkills: "Fundamentos 4.5",
+        softSkils: "",
+    },
+    {
+        title: "D15",
+        date: new Date("2022, 10, 25"),
+        hardSkills: "Fundamentos 4.4",
+        softSkils: "",
+    },
+    {
+        title: "D14",
+        date: new Date("2022, 10, 24"),
+        hardSkills: "Fundamentos 4.3",
+        softSkils: "",
+    },
+    {
+        title: "D13",
+        date: new Date("2022, 10, 21"),
+        hardSkills: "Fundamentos 4.2",
+        softSkils: "",
+    },
+    {
+        title: "D12",
+        date: new Date("2022, 10, 20"),
+        hardSkills: "",
+        softSkils: "",
+    },
+    {
+        title: "D11",
+        date: new Date("2022, 10, 19"),
+        hardSkills: "",
+        softSkils: "",
+    },
+    {
+        title: "D10",
+        date: new Date("2022, 10, 18"),
+        hardSkills: "",
+        softSkils: "",
+    },
+    {
+        title: "D9",
+        date: new Date("2022, 10, 17"),
+        hardSkills: "Fundamentos 3.3",
+        softSkils: "",
+    },
+    {
+        title: "D8",
+        date: new Date("2022, 10, 14"),
+        hardSkills: "Fundamentos 3.2",
+        softSkils: "Primeiros passos D4 Assertividade",
+    },
+    {
+        title: "D7",
+        date: new Date("2022, 10, 13"),
+        hardSkills: "Fundamentos 3.1",
+        softSkils: "Primeiros passos D3 Gestão do tempo",
+    },
+    {
+        title: "D6",
+        date: new Date("2022, 10, 11"),
+        hardSkills: "Fundamentos 2.2",
+        softSkils: "",
+    },
+    {
+        title: "D5",
+        date: new Date("2022, 10, 10"),
+        hardSkills: "Fundamentos 2.1",
+        softSkils: "",
+    },
+    {
+        title: "D4",
+        date: new Date("2022, 10, 7"),
+        hardSkills: "Fundamentos 1.2",
+        softSkils: "",
+    },
+    {
+        title: "D3",
+        date: new Date("2022, 10, 6"),
+        hardSkills: "Fundamentos 1.1",
+        softSkils: "",
+    },
+    {
+        title: "D2",
+        date: new Date("2022, 10, 5"),
+        hardSkills: "Welcome day 2",
+        softSkils: "",
+    },
+    {
+        title: "D1",
+        date: new Date("2022, 10, 4"),
+        hardSkills: "Welcome day 1",
+        softSkils: "",
     },
 ];
 
@@ -29,8 +179,6 @@ const days = [
 };*/
 
 function App() {
-    const itens = [];
-
     return (
         <div>
             <table>
@@ -48,7 +196,7 @@ function App() {
                     .map((e) => (
                         <tr key={e.title}>
                             <td>{e.title}</td>
-                            <td>{format(e.date, "dd/mm/yyyy")}</td>
+                            <td>{format(e.date, "dd/MM/yyyy")}</td>
                             <td>{e.hardSkills}</td>
                             <td>{e.softSkils}</td>
                         </tr>
