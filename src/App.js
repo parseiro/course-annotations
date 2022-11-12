@@ -197,8 +197,8 @@ function App() {
                         <tr key={e.title}>
                             <td>{e.title}</td>
                             <td>{format(e.date, "dd/MM/yyyy")}</td>
-                            <td>{e.hardSkills}</td>
-                            <td>{e.softSkils}</td>
+                            <td class={'text-left'}>{e.hardSkills}</td>
+                            <td class={'text-left'}>{e.softSkils}</td>
                         </tr>
                     ))}
                 </tbody>
