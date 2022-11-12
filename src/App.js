@@ -30,13 +30,13 @@ const days = [
     {
         title: "D23",
         date: new Date("2022, 11, 07"),
-        hardSkills: "",
+        hardSkills: "Fundamentos 5.5 Projeto Pixel Art 2/2",
         softSkils: "Eu e o Mundo - D8 Emoções",
     },
     {
         title: "D22",
         date: new Date("2022, 11, 04"),
-        hardSkills: "Fundamentos 5.5 Projeto Pixel Art",
+        hardSkills: "Fundamentos 5.5 Projeto Pixel Art 1/2",
         softSkils: "",
     },
     {
