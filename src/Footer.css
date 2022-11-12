@@ -1,3 +1,7 @@
 footer {
     @apply text-sm text-center text-red-500;
 }
+
+footer a {
+    @apply underline mx-2;
+}
