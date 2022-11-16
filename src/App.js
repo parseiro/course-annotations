@@ -4,6 +4,13 @@ import './App.css';
 
 const days = [
     {
+        title: "D28",
+        date: new Date("2022, 11, 16"),
+        hardSkills: "Fundamentos 6.5",
+        softSkils: "",
+        fechamento: "Vitória Galvão - necessidades apontadas por pessoas estudantes",
+    },
+    {
         title: "D27",
         date: new Date("2022, 11, 11"),
         hardSkills: "Fundamentos 6.4",
