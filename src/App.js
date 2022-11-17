@@ -4,6 +4,13 @@ import './App.css';
 
 const days = [
     {
+        title: "D29",
+        date: new Date("2022, 11, 17"),
+        hardSkills: "Fundamentos 6.6 - Projeto TrybeWarts",
+        softSkils: "",
+        fechamento: "",
+    },
+    {
         title: "D28",
         date: new Date("2022, 11, 16"),
         hardSkills: "Fundamentos 6.5",
