@@ -4,6 +4,13 @@ import './App.css';
 
 const days = [
     {
+        title: "D30",
+        date: new Date("2022, 11, 18"),
+        hardSkills: "Fundamentos 7.1 - JavaScript ES6 - Fluxo de exceção e objetos",
+        softSkils: "Eu e o Mundo - D12 Talentos",
+        fechamento: "Não houve",
+    },
+    {
         title: "D29",
         date: new Date("2022, 11, 17"),
         hardSkills: "Fundamentos 6.6 - Projeto TrybeWarts",
