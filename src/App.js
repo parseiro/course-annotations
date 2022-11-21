@@ -4,6 +4,14 @@ import './App.css';
 
 const days = [
     {
+        title: "D31",
+        date: new Date("2022, 11, 21"),
+        hardSkills: "Fundamentos 7.2 - Primeiros passos em Jest",
+        softSkils: "",
+        abertura: "Explicação sobre EmbaixaTrybers",
+        fechamento: "Não houve",
+    },
+    {
         title: "D30",
         date: new Date("2022, 11, 18"),
         hardSkills: "Fundamentos 7.1 - JavaScript ES6 - Fluxo de exceção e objetos",
