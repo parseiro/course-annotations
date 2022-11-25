@@ -231,8 +231,10 @@ function App() {
                 <tr>
                     <th>Dia corrido</th>
                     <th>Data</th>
+                    <th>Abertura</th>
                     <th>Hard skills</th>
                     <th>Soft skills</th>
+                    <th>Fechamento</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -242,8 +244,10 @@ function App() {
                         <tr key={e.title}>
                             <td>{e.title}</td>
                             <td>{format(e.date, "dd/MM/yyyy")}</td>
+                            <td class={'text-left'}>{e.abertura}</td>
                             <td class={'text-left'}>{e.hardSkills}</td>
                             <td class={'text-left'}>{e.softSkils}</td>
+                            <td class={'text-left'}>{e.fechamento}</td>
                         </tr>
                     ))}
                 </tbody>
