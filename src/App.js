@@ -4,6 +4,14 @@ import './App.css';
 
 const days = [
     {
+        title: "D33",
+        date: new Date("2022, 11, 23"),
+        hardSkills: "Fundamentos Dia 7.4 - Projeto ß",
+        softSkils: "Valores",
+        abertura: "Soft Skills",
+        fechamento: "Sem fechamento",
+    },
+    {
         title: "D32",
         date: new Date("2022, 11, 22"),
         hardSkills: "Fundamentos Dia 7.3 - Matchers, teste de exceções e cobertura de código",
