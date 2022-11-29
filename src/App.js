@@ -4,6 +4,22 @@ import './App.css';
 
 const days = [
     {
+        title: "D35",
+        date: new Date("2022, 11, 29"),
+        hardSkills: "Fundamentos Dia 8.1 - High Order Functions",
+        softSkils: "",
+        abertura: "Candidatos a Embaixatryber",
+        fechamento: "Trybe Talks - e Talks - Como dar match nos processos seletivos em big techs",
+    },
+    {
+        title: "D34",
+        date: new Date("2022, 11, 25"),
+        hardSkills: "Fundamentos Dia 7.4 - Projeto dia 2/2",
+        softSkils: "Eu e o Mundo - D14 Resiliência aplicada à gestão do tempo",
+        abertura: "Soft Skills com Rafa Cerqueira",
+        fechamento: "",
+    },
+    {
         title: "D33",
         date: new Date("2022, 11, 23"),
         hardSkills: "Fundamentos Dia 7.4 - Projeto ß",
