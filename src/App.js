@@ -250,6 +250,7 @@ function App() {
                     <th>Abertura</th>
                     <th>Hard skills</th>
                     <th>Soft skills</th>
+                    <th>Carreira</th>
                     <th>Fechamento</th>
                 </tr>
                 </thead>
@@ -263,6 +264,7 @@ function App() {
                             <td class={'text-left'}>{e.abertura}</td>
                             <td class={'text-left'}>{e.hardSkills}</td>
                             <td class={'text-left'}>{e.softSkils}</td>
+                            <td class={'text-left'}>{e.carreira}</td>
                             <td class={'text-left'}>{e.fechamento}</td>
                         </tr>
                     ))}
