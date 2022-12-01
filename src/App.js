@@ -4,6 +4,15 @@ import './App.css';
 
 const days = [
     {
+        title: "D37",
+        date: new Date("2022, 12, 01"),
+        hardSkills: "Fundamentos Dia 8.3 - Higher Order Functions - filter e reduce",
+        softSkils: "Mentoria - Grupo B2",
+        carreira: "Primeiros passos - D2 Stalkeando empresas",
+        abertura: "Não houve",
+        fechamento: "Não houve",
+    },
+    {
         title: "D36",
         date: new Date("2022, 11, 30"),
         hardSkills: "Fundamentos Dia 8.2 - Higher Order Functions - sort e map",
