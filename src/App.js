@@ -4,6 +4,24 @@ import './App.css';
 
 const days = [
     {
+        title: "D41",
+        date: new Date("2022, 12, 12"),
+        hardSkills: "Projeto Zoo functions",
+        softSkils: "Mentoria - Grupo B5",
+        carreira: "",
+        abertura: "",
+        fechamento: "",
+    },
+    {
+        title: "D40",
+        date: new Date("2022, 12, 08"),
+        hardSkills: "Fundamentos Dia 8.6 Projeto Zoo functions",
+        softSkils: "",
+        carreira: "Primeiros passos - D4 Refletindo sobre a MDC",
+        abertura: "Explicação do projeto",
+        fechamento: "Momento Carreira",
+    },
+    {
         title: "D39",
         date: new Date("2022, 12, 07"),
         hardSkills: "Fundamentos Dia 8.5 JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameter",
