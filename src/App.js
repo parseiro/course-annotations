@@ -4,13 +4,22 @@ import './App.css';
 
 const days = [
     {
+        title: "D42",
+        date: new Date("2022, 12, 13"),
+        hardSkills: "Projeto Zoo functions",
+        softSkils: "Mentoria - Grupo B6",
+        carreira: "",
+        abertura: "Não houve",
+        fechamento: "Não houve",
+    },
+    {
         title: "D41",
         date: new Date("2022, 12, 12"),
         hardSkills: "Projeto Zoo functions",
         softSkils: "Mentoria - Grupo B5",
         carreira: "",
-        abertura: "",
-        fechamento: "",
+        abertura: "Não houve",
+        fechamento: "Não houve",
     },
     {
         title: "D40",
