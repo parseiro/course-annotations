@@ -4,6 +4,15 @@ import './App.css';
 
 const days = [
     {
+        title: "D44",
+        date: new Date("2022, 12, 15"),
+        hardSkills: "",
+        softSkils: "Dinâmicas soft skills",
+        carreira: "",
+        abertura: "Soft skills",
+        fechamento: "Soft skills",
+    },
+    {
         title: "D43",
         date: new Date("2022, 12, 14"),
         hardSkills: "Projeto Zoo functions",
