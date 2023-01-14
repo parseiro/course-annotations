@@ -4,9 +4,18 @@ import './App.css';
 
 const days = [
     {
+        title: "D48",
+        date: new Date("2023, 01, 13"),
+        hardSkills: "Dia 04: Async, await e testes assíncronos",
+        softSkils: "Dia 02: Introdução à criatividade",
+        carreira: "",
+        abertura: "Explicação do exercício do dia",
+        fechamento: "Não houve",
+    },
+    {
         title: "D47",
         date: new Date("2023, 01, 12"),
-        hardSkills: "Dia 03: ",
+        hardSkills: "Dia 03: Prática - Casa de Câmbio",
         softSkils: "",
         carreira: "",
         abertura: "Explicação do exercício do dia",
