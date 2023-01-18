@@ -19,7 +19,7 @@ const days = [
         softSkils: "Dia 03: Introdução à inovação",
         carreira: "",
         abertura: "Soft skills",
-        fechamento: "",
+        fechamento: "Não houve",
     },
     {
         title: "D49",
