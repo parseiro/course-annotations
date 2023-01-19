@@ -4,12 +4,21 @@ import './App.css';
 
 const days = [
     {
+        title: "D52",
+        date: new Date("2023, 01, 19"),
+        hardSkills: "Dia 08: Projeto - Carrinho de compras dia 4/4",
+        softSkils: "Dia 05: Sessão de Pitacos",
+        carreira: "",
+        abertura: "Soft skills",
+        fechamento: "Não houve",
+    },
+    {
         title: "D51",
         date: new Date("2023, 01, 18"),
         hardSkills: "Dia 07: Projeto - Carrinho de compras dia 3/4",
         softSkils: "Dia 04: Introdução à inovação",
         carreira: "",
-        abertura: "Avisos e alinhamentos",
+        abertura: "Soft skills",
         fechamento: "Não houve",
     },
     {
