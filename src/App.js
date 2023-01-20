@@ -15,8 +15,8 @@ const days = [
     {
         title: "D52",
         date: new Date("2023, 01, 19"),
-        hardSkills: "Dia 08: Projeto - Carrinho de compras dia 4/4",
-        softSkils: "Dia 05: Sessão de Pitacos",
+        hardSkills: "Front-end 1.8: Projeto - Carrinho de compras dia 4/4",
+        softSkils: "3.5: Sessão de Pitacos",
         carreira: "",
         abertura: "Soft skills",
         fechamento: "Não houve",
@@ -24,8 +24,8 @@ const days = [
     {
         title: "D51",
         date: new Date("2023, 01, 18"),
-        hardSkills: "Dia 07: Projeto - Carrinho de compras dia 3/4",
-        softSkils: "Dia 04: Introdução à inovação",
+        hardSkills: "Front-end 1.7: Projeto - Carrinho de compras dia 3/4",
+        softSkils: "3.4: Introdução à inovação",
         carreira: "",
         abertura: "Soft skills",
         fechamento: "Não houve",
@@ -33,8 +33,8 @@ const days = [
     {
         title: "D50",
         date: new Date("2023, 01, 17"),
-        hardSkills: "Dia 06: Projeto - Carrinho de compras dia 2/4",
-        softSkils: "Dia 03: Introdução à inovação",
+        hardSkills: "Front-end 1.6: Projeto - Carrinho de compras dia 2/4",
+        softSkils: "3.3: Introdução à inovação",
         carreira: "",
         abertura: "Soft skills",
         fechamento: "Não houve",
@@ -42,7 +42,7 @@ const days = [
     {
         title: "D49",
         date: new Date("2023, 01, 16"),
-        hardSkills: "Dia 05: Projeto - Carrinho de compras dia 1/4",
+        hardSkills: "Front-end 1.5: Projeto - Carrinho de compras dia 1/4",
         softSkils: "",
         carreira: "",
         abertura: "Apresentação do projeto",
@@ -51,8 +51,8 @@ const days = [
     {
         title: "D48",
         date: new Date("2023, 01, 13"),
-        hardSkills: "Dia 04: Async, await e testes assíncronos",
-        softSkils: "Dia 02: Introdução à criatividade",
+        hardSkills: "Front-end 1.4: Async, await e testes assíncronos",
+        softSkils: "3.2: Introdução à criatividade",
         carreira: "",
         abertura: "Explicação do exercício do dia",
         fechamento: "Não houve",
@@ -60,7 +60,7 @@ const days = [
     {
         title: "D47",
         date: new Date("2023, 01, 12"),
-        hardSkills: "Dia 03: Prática - Casa de Câmbio",
+        hardSkills: "Front-end 1.3: Prática - Casa de Câmbio",
         softSkils: "",
         carreira: "",
         abertura: "Explicação do exercício do dia",
@@ -69,8 +69,8 @@ const days = [
     {
         title: "D46",
         date: new Date("2023, 01, 11"),
-        hardSkills: "Dia 02: Javascript Assíncrono",
-        softSkils: "Dia 01: PDI - Segundo exercício",
+        hardSkills: "Front-end 1.2: Javascript Assíncrono",
+        softSkils: "3.1: PDI - Segundo exercício",
         carreira: "",
         abertura: "Apresentação do módulo de soft skills",
         fechamento: "",
@@ -78,7 +78,7 @@ const days = [
     {
         title: "D45",
         date: new Date("2023, 01, 10"),
-        hardSkills: "Dia 01: Ambiente de desenvolvimento",
+        hardSkills: "Front-end 1.1: Ambiente de desenvolvimento",
         softSkils: "",
         carreira: "",
         abertura: "Apresentação do staff e do módulo",
