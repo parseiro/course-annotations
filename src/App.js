@@ -4,6 +4,15 @@ import './App.css';
 
 const days = [
     {
+        title: "D53",
+        date: new Date("2023, 01, 20"),
+        hardSkills: "Front-end 2.1: 'Hello, World' no React",
+        softSkils: "3.6: Introdução à Colaboração",
+        carreira: "",
+        abertura: "Explicação da Sessão 2",
+        fechamento: "Não houve",
+    },
+    {
         title: "D52",
         date: new Date("2023, 01, 19"),
         hardSkills: "Dia 08: Projeto - Carrinho de compras dia 4/4",
