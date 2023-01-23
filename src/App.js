@@ -6,11 +6,11 @@ const days = [
     {
         title: "D54",
         date: new Date("2023, 01, 23"),
-        hardSkills: "Front-end 2.2: Componentes React,
+        hardSkills: "Front-end 2.2: Componentes React",
         softSkils: "3.7: Introdução à Colaboração",
         carreira: "",
         abertura: "Soft skills, dinâmica de colaboração",
-        fechamento: "Não houve",
+        fechamento: "Gestão de Tempo com Luiz Felipe 28-A",
     },
     {
         title: "D53",
