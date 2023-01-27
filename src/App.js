@@ -4,9 +4,18 @@ import './App.css';
 
 const days = [
     {
+        title: "D58",
+        date: new Date("2023, 01, 27"),
+        hardSkills: "Front-end 3.3: Projeto Tryunfo",
+        softSkils: "",
+        carreira: "",
+        abertura: "Explicação do projeto",
+        fechamento: "",
+    },
+    {
         title: "D57",
         date: new Date("2023, 01, 26"),
-        hardSkills: "Front-end 3.1: Componentes com estado e eventos",
+        hardSkills: "Front-end 3.2: Formulários no React",
         softSkils: "3.8 A importância da assertividade para a colaboração",
         carreira: "",
         abertura: "Introdução ao tema de soft skills",
