@@ -228,7 +228,7 @@ const days = [
     {
         title: "D32",
         date: new Date("2022, 11, 22"),
-        hardSkills: "Fundamentos Dia 7.3 - Matchers, teste de exceções e cobertura de código",
+        hardSkills: "Fundamentos 7.3 - Matchers, teste de exceções e cobertura de código",
         softSkils: "Valores",
         abertura: "Soft Skills",
         fechamento: "",
@@ -245,7 +245,7 @@ const days = [
         title: "D30",
         date: new Date("2022, 11, 18"),
         hardSkills: "Fundamentos 7.1 - JavaScript ES6 - Fluxo de exceção e objetos",
-        softSkils: "Eu e o Mundo - D12 Talentos",
+        softSkils: "2.12 Talentos",
         fechamento: "Não houve",
     },
     {
@@ -272,25 +272,25 @@ const days = [
         title: "D26",
         date: new Date("2022, 11, 10"),
         hardSkills: "Fundamentos 6.3",
-        softSkils: "Eu e o Mundo - D11 Resiliência",
+        softSkils: "2.11 Resiliência",
     },
     {
         title: "D25",
         date: new Date("2022, 11, 09"),
         hardSkills: "Fundamentos 6.2",
-        softSkils: "Eu e o Mundo - D10 Empatia",
+        softSkils: "2.10 Empatia",
     },
     {
         title: "D24",
         date: new Date("2022, 11, 08"),
         hardSkills: "Fundamentos 6.1",
-        softSkils: "Eu e o Mundo - D9 História de vida",
+        softSkils: "2.9 História de vida",
     },
     {
         title: "D23",
         date: new Date("2022, 11, 07"),
         hardSkills: "Fundamentos 5.5 Projeto Pixel Art 2/2",
-        softSkils: "Eu e o Mundo - D8 Emoções",
+        softSkils: "2.8 Emoções",
     },
     {
         title: "D22",
@@ -302,13 +302,13 @@ const days = [
         title: "D21",
         date: new Date("2022, 11, 03"),
         hardSkills: "Fundamentos 5.4",
-        softSkils: "Eu e o Mundo - D7 Introdução à inteligência emocional",
+        softSkils: "2.7 Introdução à inteligência emocional",
     },
     {
         title: "D20",
         date: new Date("2022, 11, 01"),
         hardSkills: "Fundamentos 5.3",
-        softSkils: "",
+        softSkils: "2.6 Como aproveitar um feedback?",
     },
     {
         title: "D19",
@@ -320,7 +320,7 @@ const days = [
         title: "D18",
         date: new Date("2022, 10, 28"),
         hardSkills: "Fundamentos 5.1",
-        softSkils: "Eu e o Mundo - D2 Explicação do Zuck Challenge",
+        softSkils: "2.2 Explicação do Zuck Challenge",
     },
     {
         title: "D17",
@@ -350,13 +350,13 @@ const days = [
         title: "D13",
         date: new Date("2022, 10, 21"),
         hardSkills: "Fundamentos 4.2",
-        softSkils: "Primeiros passos - D8 Diversidade & Inclusão",
+        softSkils: "1.8 Diversidade & Inclusão",
     },
     {
         title: "D12",
         date: new Date("2022, 10, 20"),
         hardSkills: "Fundamentos 4.1",
-        softSkils: "Primeiros passos - D6 Plano de Desenvolvimento Individual (PDI) - Primeiro Exercício",
+        softSkils: "1.6 Plano de Desenvolvimento Individual (PDI) - Primeiro Exercício",
     },
     {
         title: "D11",
@@ -368,7 +368,7 @@ const days = [
         title: "D10",
         date: new Date("2022, 10, 18"),
         hardSkills: "Fundamentos 3.4",
-        softSkils: "Primeiros passos - D4 Introdução à assertividade",
+        softSkils: "1.4 Introdução à assertividade",
     },
     {
         title: "D9",
