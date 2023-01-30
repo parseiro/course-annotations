@@ -4,6 +4,15 @@ import './App.css';
 
 const days = [
     {
+        title: "D59",
+        date: new Date("2023, 01, 30"),
+        hardSkills: "Front-end 3.3: Dia 2 Projeto Tryunfo",
+        softSkils: "3.9 Colaboração em times ágeis de desenvolvimento",
+        carreira: "",
+        abertura: "Avisos e alinhamentos",
+        fechamento: "",
+    },
+    {
         title: "D58",
         date: new Date("2023, 01, 27"),
         hardSkills: "Front-end 3.3: Projeto Tryunfo",
