@@ -4,9 +4,18 @@ import './App.css';
 
 const days = [
     {
+        title: "D60",
+        date: new Date("2023, 01, 31"),
+        hardSkills: "Front-end 3.5: Dia 3/3 Projeto Tryunfo",
+        softSkils: "3.10 Ideação (apenas a dinâmica mesmo)",
+        carreira: "",
+        abertura: "Dinâmica de soft skills",
+        fechamento: "",
+    },
+    {
         title: "D59",
         date: new Date("2023, 01, 30"),
-        hardSkills: "Front-end 3.3: Dia 2 Projeto Tryunfo",
+        hardSkills: "Front-end 3.4: Dia 2/3 Projeto Tryunfo",
         softSkils: "3.9 Colaboração em times ágeis de desenvolvimento",
         carreira: "",
         abertura: "Avisos e alinhamentos",
@@ -15,7 +24,7 @@ const days = [
     {
         title: "D58",
         date: new Date("2023, 01, 27"),
-        hardSkills: "Front-end 3.3: Projeto Tryunfo",
+        hardSkills: "Front-end 3.3: Dia 1/3 Projeto Tryunfo",
         softSkils: "",
         carreira: "",
         abertura: "Explicação do projeto",
