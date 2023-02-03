@@ -4,6 +4,33 @@ import './App.css';
 
 const days = [
     {
+        title: "D63",
+        date: new Date("2023, 02, 03"),
+        hardSkills: "Front-end 4.3: Projeto Trybetunes",
+        softSkils: "",
+        carreira: "",
+        abertura: "Explicação do projeto",
+        fechamento: "",
+    },
+    {
+        title: "D62",
+        date: new Date("2023, 02, 02"),
+        hardSkills: "Front-end 4.2: ",
+        softSkils: "3.11 Colaboração mediada por tecnologia",
+        carreira: "",
+        abertura: "Avisos e alinhamentos",
+        fechamento: "",
+    },
+    {
+        title: "D61",
+        date: new Date("2023, 02, 01"),
+        hardSkills: "Front-end 4.1: Ciclo de vida de componentes em React",
+        softSkils: "",
+        carreira: "Aplicação em processo seletivo",
+        abertura: "Carreira",
+        fechamento: "",
+    },
+    {
         title: "D60",
         date: new Date("2023, 01, 31"),
         hardSkills: "Front-end 3.5: Dia 3/3 Projeto Tryunfo",
