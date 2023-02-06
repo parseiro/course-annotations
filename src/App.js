@@ -3,10 +3,19 @@ import { format } from "date-fns";
 import './App.css';
 
 const days = [
+  {
+    title: "D64",
+    date: new Date("2023, 02, 06"),
+    hardSkills: "Front-end 4.3: Projeto Trybetunes dia 2/3",
+    softSkils: "",
+    carreira: "",
+    abertura: "Avisos e alinhamentos",
+    fechamento: "",
+  },
     {
         title: "D63",
         date: new Date("2023, 02, 03"),
-        hardSkills: "Front-end 4.3: Projeto Trybetunes",
+        hardSkills: "Front-end 4.3: Projeto Trybetunes dia 1/3",
         softSkils: "",
         carreira: "",
         abertura: "Explicação do projeto",
@@ -457,13 +466,13 @@ const days = [
     {
         title: "D4",
         date: new Date("2022, 10, 7"),
-        hardSkills: "Fundamentos 1.2",
+        hardSkills: "Fundamentos 1.2: Git - O que é e para que serve",
         softSkils: "Primeiros passos - D1 Por que desenvolver soft skills?",
     },
     {
         title: "D3",
         date: new Date("2022, 10, 6"),
-        hardSkills: "Fundamentos 1.1",
+        hardSkills: "Fundamentos 1.1: Unix & Shell",
         softSkils: "",
     },
     {
